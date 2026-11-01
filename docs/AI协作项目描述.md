@@ -33,7 +33,7 @@
 **项目亮点**：不依赖 matplotlib 等现成图表库，自研 SVG 渲染器完成全部可视化，
 体现底层实现能力；全流程固定随机种子、一键复现，体现工程规范。
 
-作品链接：___(你的 GitHub 仓库地址)___
+作品链接：https://github.com/yao-chi/hok-game-data-analysis
 
 ---
 
@@ -58,4 +58,4 @@
 > （如经济效率与胜率的 S 曲线关系、死亡数为最大负向因子 r=-0.32）。全流程不依赖
 > matplotlib，自研 SVG 渲染器并固定随机种子实现一键复现。AI 在分析框架设计、代码
 > review 与 bug 定位中提供了关键协作，也让我养成了"结论必须有图表证据支撑"的数据
-> 分析习惯。链接：___(你的 GitHub 仓库地址)___
+> 分析习惯。链接：https://github.com/yao-chi/hok-game-data-analysis
